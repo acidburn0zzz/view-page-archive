@@ -37,7 +37,7 @@
     "@material/typography": "^0.28.0",
     "ext-components": "dessant/ext-components#^0.1.3",
     "ext-contribute": "dessant/ext-contribute#^0.1.2",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "storage-versions": "dessant/storage-versions#^0.1.1",
     "vue": "^2.5.13",
     "vue-resize": "^0.4.4",
